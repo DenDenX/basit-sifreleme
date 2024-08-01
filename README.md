@@ -16,7 +16,7 @@ Bu program, basit bir dosya şifreleme ve çözme işlemi gerçekleştirir. Kull
 
 1. Bu projeyi klonlayın veya indirin:
     ```sh
-    git clone https://github.com/kullanici_adi/basit-sifreleme.git
+    git clone https://github.com/DenDenX/basit-sifreleme.git
     ```
 2. `main.cpp` dosyasını derleyin:
     ```sh
